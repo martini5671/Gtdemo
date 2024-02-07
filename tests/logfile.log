@@ -1,0 +1,40 @@
+2024-02-06 14:43:43,553 :INFO : test_e2e : getting all products 
+2024-02-06 14:43:43,575 :INFO : test_e2e : iphone X
+2024-02-06 14:43:43,588 :INFO : test_e2e : Samsung Note 8
+2024-02-06 14:43:43,602 :INFO : test_e2e : Nokia Edge
+2024-02-06 14:43:43,616 :INFO : test_e2e : Blackberry
+2024-02-06 14:43:43,771 :INFO : test_e2e : passing the country name
+2024-02-06 14:43:49,887 :INFO : test_e2e : text received form application is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-06 14:48:50,768 :INFO : test_e2e : getting all products 
+2024-02-06 14:48:50,795 :INFO : test_e2e : iphone X
+2024-02-06 14:48:50,808 :INFO : test_e2e : Samsung Note 8
+2024-02-06 14:48:50,827 :INFO : test_e2e : Nokia Edge
+2024-02-06 14:48:50,841 :INFO : test_e2e : Blackberry
+2024-02-06 14:48:50,984 :INFO : test_e2e : passing the country name
+2024-02-06 14:48:56,244 :INFO : test_e2e : text received form application is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-06 14:49:30,632 :INFO : test_e2e : getting all products 
+2024-02-06 14:49:30,654 :INFO : test_e2e : iphone X
+2024-02-06 14:49:30,667 :INFO : test_e2e : Samsung Note 8
+2024-02-06 14:49:30,680 :INFO : test_e2e : Nokia Edge
+2024-02-06 14:49:30,694 :INFO : test_e2e : Blackberry
+2024-02-06 14:49:30,830 :INFO : test_e2e : passing the country name
+2024-02-06 14:49:36,049 :INFO : test_e2e : text received form application is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-06 14:53:45,005 :INFO : test_e2e : getting all products 
+2024-02-06 14:53:45,027 :INFO : test_e2e : iphone X
+2024-02-06 14:53:45,039 :INFO : test_e2e : Samsung Note 8
+2024-02-06 14:53:45,051 :INFO : test_e2e : Nokia Edge
+2024-02-06 14:53:45,065 :INFO : test_e2e : Blackberry
+2024-02-06 14:53:45,201 :INFO : test_e2e : passing the country name
+2024-02-06 14:53:50,463 :INFO : test_e2e : text received form application is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-06 14:56:19,497 :INFO : test_e2e : getting all products 
+2024-02-06 14:56:19,531 :INFO : test_e2e : iphone X
+2024-02-06 14:56:19,548 :INFO : test_e2e : Samsung Note 8
+2024-02-06 14:56:19,566 :INFO : test_e2e : Nokia Edge
+2024-02-06 14:56:19,578 :INFO : test_e2e : Blackberry
+2024-02-06 14:56:19,762 :INFO : test_e2e : passing the country name
+2024-02-06 14:56:25,013 :INFO : test_e2e : text received form application is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
