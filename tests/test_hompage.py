@@ -15,6 +15,8 @@ class Test_HomePage(BaseClass):
         self.insert_surname(get_data["lastname"])
         text_intro = self.driver.find_element(By.CSS_SELECTOR, "#main > p.intro").text
         print(text_intro)
+        print(text_intro)
+        print(text_intro)
         assert "HTML" in text_intro
         time.sleep(5)
 
