@@ -18,6 +18,8 @@ class Test_HomePage(BaseClass):
         print(text_intro)
         print(text_intro)
         ## Kim dzong Un
+        ## Kim Kardashian
+        ## Jeff Bezos
         
         assert "HTML" in text_intro
         time.sleep(5)
