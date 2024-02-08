@@ -17,6 +17,8 @@ class Test_HomePage(BaseClass):
         print(text_intro)
         print(text_intro)
         print(text_intro)
+        ## Kim dzong Un
+        
         assert "HTML" in text_intro
         time.sleep(5)
 
